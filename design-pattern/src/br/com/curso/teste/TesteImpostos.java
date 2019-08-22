@@ -1,4 +1,4 @@
-package br.com.curso.model;
+package br.com.curso.teste;
 import java.util.Random;
 
 import br.com.curso.impostos.CalculadorDeImposto;
@@ -10,6 +10,7 @@ import br.com.curso.investimentos.Arrojado;
 import br.com.curso.investimentos.Conservador;
 import br.com.curso.investimentos.Moderado;
 import br.com.curso.investimentos.RealizadorDeInvestimentos;
+import br.com.curso.model.Orcamento;
 
 public class TesteImpostos {
 
