@@ -1,5 +1,4 @@
 package br.com.curso.teste;
-import java.util.Random;
 
 import br.com.curso.impostos.CalculadorDeImposto;
 import br.com.curso.impostos.ICCC;

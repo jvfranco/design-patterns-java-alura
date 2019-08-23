@@ -18,5 +18,8 @@ public class Conta {
 		return saldo;
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "Titular: " + this.nome + ", Saldo: " + this.saldo;
+	}
 }
