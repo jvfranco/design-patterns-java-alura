@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import br.com.curso.state.EmAprovacao;
-import br.com.curso.state.EstadoDeUmOrcamento;
-
 public class Orcamento {
 
 	private double valor;
